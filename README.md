@@ -1,2 +1,2 @@
 # igsn-sprint-excersices
-It will contains sitemaps created for IGSN Spring JOSN-LD
+It contains the sitemaps created for IGSN Sprint JOSN-LD
